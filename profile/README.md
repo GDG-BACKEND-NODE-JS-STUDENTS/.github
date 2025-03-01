@@ -13,8 +13,8 @@ We will be following a structured learning path covering:
 - **Authentication & Security Best Practices**
 - **Database Management & Optimization**
 
-### 🎥 Learning Track Overview Video
-*A video explaining our learning path will be added here soon.*
+### 🎥 Assignment Submission Tutorial
+*A video tutorial on how to submit assignments will be added here soon.*
 
 ## 🤝 Contributing
 We encourage students to contribute to projects, discussions, and open issues. Feel free to ask questions and collaborate with your peers!
