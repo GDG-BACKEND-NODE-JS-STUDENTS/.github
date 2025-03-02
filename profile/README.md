@@ -17,8 +17,10 @@ We will be following a structured learning path covering:
 ### 🎥 Assignment Submission Tutorial
 *A video tutorial on how to submit assignments will be added here soon.*
 
+[![Watch the tutorial](https://img.youtube.com/vi/9tX3nUwycXI/0.jpg)](https://www.youtube.com/watch?v=9tX3nUwycXI)
+
 ## 🤝 Contributing
 We encourage students to contribute to projects, discussions, and open issues. Feel free to ask questions and collaborate with your peers!
 
 ## 📩 Contact & Support
-For any questions or assistance, reach out via our GDG SCU community channels. (whatsapp community)
+For any questions or assistance, reach out via our GDG SCU community channels. (WhatsApp community)
