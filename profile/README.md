@@ -7,8 +7,9 @@ This GitHub organization is dedicated to helping students learn and build backen
 
 ## 📚 Learning Track
 We will be following a structured learning path covering:
+- **JS in advance**
 - **Node.js Fundamentals** (Modules, File System, CLI, Event Loop, REPL)
-- **Backend Development with Next.js** (Using App Router and MongoDB)
+- **Backend Development with Express.js** 
 - **Building APIs & Microservices**
 - **Authentication & Security Best Practices**
 - **Database Management & Optimization**
